@@ -31,7 +31,7 @@ All data is stored in-memory using **singly linked lists** — one list per enti
 
 ## Features
 
-### 🏢 Branch Management
+###  Branch Management
 | Function | Description |
 |----------|-------------|
 | Add Branch | Insert a new hospital branch (ID, Name, Location) |
