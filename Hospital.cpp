@@ -1,30 +1,3 @@
-/*The Hospital Management System can help any hospital or healthcare facility
-by boosting productivity, lowering paperwork, and enhancing patient care. The
-Hospital Management System in C++ simplifies the process for hospitals and
-other healthcare organizations to manage medical records and appointments.
-The Hospital has many branches. Each branch has basic information (ID, Name,
-and Location). The Hospital has many doctors. Each Doctor has basic
-information (ID, Name, Specialization, and hospital branch). The Hospital
-Also deals with many patients and each patient has basic information (ID,
-Name, Address, and Appointment). Create a C++ program using three singly
-Linked Lists to perform the following functions:
-System Required Functions:-
-1- For Hospital:-
-a. Add new branch.
-b. Display Branches.
-c. Search for Branch by ID.
-2- For Doctor: -
-a. Add new doctor.
-b. Remove a doctor.
-c. Display all appointments.
-3- For Patients: -
-a. Add new patient.
-b. Remove a patient.
-c. Book Appointment.
-d. Search for patient by Name.
-Bonus:-
-➢ Update patient Information.
-➢ Remove Branch.*/
 
 #include <iostream>
 #include <string>
